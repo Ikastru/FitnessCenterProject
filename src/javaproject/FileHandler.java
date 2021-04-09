@@ -14,7 +14,7 @@ import java.io.*;
  */
 public class FileHandler {
 
-    private final String memPath = "C:\\Users\\Ikast\\IdeaProjects\\FitnessCenterProject\\out\\production\\FitnessCenterProject\\javaproject\\";
+    private final String memPath = "";
 
     public LinkedList<Member> readFile(){
         LinkedList<Member> m = new LinkedList();
